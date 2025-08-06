@@ -28,7 +28,7 @@ const Login = () => {
     >
       <h1>Login</h1>
 
-      <a href="https://adminfinx.goyong.in/auth/login/google?redirect=https://client.goyong.in/login">
+      <a href="https://admin.forumbandung.net/auth/login/google?redirect=https://dev2025.forumbandung.net/login">
         Login with Google
       </a>
 
