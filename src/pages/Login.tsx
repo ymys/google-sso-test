@@ -28,7 +28,7 @@ const Login = () => {
     >
       <h1>Login</h1>
 
-      <a href="https://admin.forumbandung.net/auth/login/google?redirect=https://dev2025.forumbandung.net/login">
+      <a href="https://admin.forumbandung.net/auth/login/google?redirect=https://client.forumbandung.net/login">
         Login with Google
       </a>
 
