@@ -28,7 +28,7 @@ const Login = () => {
     >
       <h1>Login</h1>
 
-      <a href="https://buatpoc-dir.q4ml5v.easypanel.host/auth/login/google?redirect=http://localhost:3000/login">
+      <a href="https://m1n.ayomas.uk/auth/login/google?redirect=http://client.ayomas.uk/login">
         Login with Google
       </a>
 
